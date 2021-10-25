@@ -14,5 +14,6 @@ An in-depth Coding logic video will be made along side as well.
 ![20211024_211324](https://user-images.githubusercontent.com/77421428/138621157-f2a37da0-b0b9-4eb4-b544-6c9d46148c40.jpg)
 
                                                                       
-The GitHub and YouTube Links for the Final Robot will be posted here: v
-[...check back soon...]
+The GitHub and YouTube Links for the Final Robot will be posted here: 
+
+N/A[...check back soon...]
